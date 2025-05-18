@@ -27,6 +27,10 @@ a {
   color: #2e2f42;
 }
 
+.footer-logo .logo-part {
+  color: #f4f4fd;
+}
+
 .nav-link {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -52,4 +56,39 @@ a {
 .contacts-link:hover,
 .contacts-link:focus {
   color: #404bbf;
+}
+
+.hero {
+  background-color: #2e2f42;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+}
+
+.hero-button {
+  background-color: #4d5ae5;
+  border-style: none;
+  cursor: pointer;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  vertical-align: middle;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
+}
+
+.page-footer {
+  background-color: #2e2f42;
 }
