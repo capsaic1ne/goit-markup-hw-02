@@ -58,11 +58,11 @@ a {
   color: #404bbf;
 }
 
-.hero {
+.main {
   background-color: #2e2f42;
 }
 
-h1 {
+.main-body {
   font-family: "Roboto", sans-serif;
   font-size: 56px;
   line-height: 1.07;
@@ -71,7 +71,7 @@ h1 {
   color: #ffffff;
 }
 
-.hero-button {
+.main-button {
   background-color: #4d5ae5;
   border-style: none;
   cursor: pointer;
