@@ -84,8 +84,8 @@ a {
   vertical-align: middle;
 }
 
-.hero-button:hover,
-.hero-button:focus {
+.main-button:hover,
+.main-button:focus {
   background-color: #404bbf;
 }
 
